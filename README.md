@@ -1,2 +1,4 @@
 # Data-Analysis-of-Sponsored-Cyber-Operation-from-2005---Present-2022-
-Collection of Data From the Council on Foreign Relations
+As technology continues to advance, cyber-attacks are becoming more sophisticated and have become a significant threat to countries, organizations, and individuals worldwide. State actors often sponsor or carry out these attacks to achieve political, military, or economic objectives.
+To better understand the trends and characteristics of sponsored cyber operation incidents from 2005 to 2022, we will analyze a dataset of such incidents. Through this analysis, we aim to provide valuable insights into the nature of these attacks and explore potential machine learning approaches to identify patterns and groups of incidents with similar characteristics. Our findings could help organizations and governments enhance their cybersecurity strategies and protect against future cyber threats.
+
